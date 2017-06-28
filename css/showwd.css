@@ -1,0 +1,26 @@
+body{ background:#fff;margin:0; padding:0; font-family:"微软雅黑", Arial, Helvetica, sans-serif; }
+a{ color:#006600; text-decoration:none;}
+a:hover{color:#990000;}
+.top{ margin:150px auto; color:#990000; text-align:center;margin-bottom: 10px;}
+.info select{  background:#FFFFFF;width: 150px;height: 50px;text-align: center;padding: 15px;margin-right: 5px}
+.info{ 
+/*position: absolute;
+left:500;
+top:47;*/
+
+}
+.info #show{ color:#3399FF; }
+input{ 
+background-color: #993300;
+border: none;
+color: #FFFFFF;
+width: 100px;
+height: 48px;
+}
+.span1{
+	font-size: 30px;
+}
+table{
+
+margin: 0 auto;
+}
